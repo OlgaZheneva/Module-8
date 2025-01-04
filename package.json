@@ -21,6 +21,9 @@
     "pg": "^8.13.1"
   },
   "devDependencies": {
-    "parcel": "^2.13.3"
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-prettier": "^5.2.1",
+    "parcel": "^2.13.3",
+    "prettier": "3.4.2"
   }
 }
